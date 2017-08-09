@@ -1,0 +1,634 @@
+# This German Language File: Copyright (C) 2013 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the Premise Settings Transporter Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer WordPress-Plugins und -Themes sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Premise Settings Transporter v1.1.0\n"
+"Report-Msgid-Bugs-To: http://deckerweb.de/kontakt/\n"
+"POT-Creation-Date: 2013-01-25 14:11:30+0100\n"
+"PO-Revision-Date: 2013-06-14 21:36+0100\n"
+"Last-Translator: David Decker <deckerweb.mobil@googlemail.com>\n"
+"Language-Team: DECKERWEB -- http://deckerweb.de/kontakt/\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ premise-settings-transporter
+#. translators: plugin header field 'Author'
+#: premise-settings-transporter.php:0
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+# @ premise-settings-transporter
+#. translators: plugin header field 'AuthorURI'
+#: premise-settings-transporter.php:0
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:201 premise-settings-transporter.php:114
+msgid "Plugin"
+msgstr "Plugin"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:100 includes/prst-admin-extras.php:168
+#: includes/prst-admin-extras.php:222 includes/prst-admin-extras.php:238
+msgid "FAQ"
+msgstr "FAQ - Häufige Fragen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:102 includes/prst-admin-extras.php:222
+msgid "Support"
+msgstr "Hilfe und Unterstützung (Support)"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:104 includes/prst-admin-extras.php:222
+msgid "Translations"
+msgstr "Übersetzungen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:106 includes/prst-admin-extras.php:222
+#: includes/prst-admin-extras.php:394
+msgid "Donate"
+msgstr "Spenden"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:221
+msgid "Important plugin links:"
+msgstr "Wichtige Plugin-Links"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:222
+msgid "Plugin website"
+msgstr "Plugin-Webseite"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:396
+msgid "More about the plugin author"
+msgstr "Mehr über den Plugin-Autor"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:397
+msgid "Social:"
+msgstr "Vernetzen:"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:203
+msgid "A Typical Workflow Example"
+msgstr "Ein typisches Beispiel für einen Workflow"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:204
+msgid ""
+"Transfer settings from a development install to the live/ production install."
+msgstr ""
+"Einstellungen von einer Entwicklungs-Installation zu einer Live-Installation "
+"übertragen."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:205
+msgid "Prerequisites/ Requirements"
+msgstr "Vorbereitungen/ Anforderungen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:208
+#, php-format
+msgid ""
+"On BOTH sites/ installations you have installed & activated this plugin, %s."
+msgstr ""
+"Auf BEIDEN Webseiten/ Installationen haben Sie dieses Plugin, %s,  "
+"installiert &amp; aktiviert."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:211
+msgid "Transfer"
+msgstr "Übertragen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:213
+#, php-format
+msgid "On the development install: Just make an Export file via %s admin page:"
+msgstr ""
+"In der Entwicklungs-Installation: nun eine Exportdatei erstellen über die %s "
+"Admin-Seite:"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:214
+#, php-format
+msgid "In the %s section there enable all checkboxes you need."
+msgstr "Im %s-Bereich alle gewünschten Kontrollkästchen aktivieren."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:214
+msgid "Export"
+msgstr "Export"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:215
+#, php-format
+msgid "Save the %s file to your computer."
+msgstr "Die %s Datei auf Ihrem Rechner speichern."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:216
+#, php-format
+msgid "On the live/ production site, just import this %s file and you're done!"
+msgstr ""
+"Auf der Live-Webseite nun diese %s Datei importieren und Sie sind fertig!"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:64
+msgid "Go to the Premise Import/Export page"
+msgstr "Zur Premise Import-/ Export-Seite gehen..."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:65
+msgid "Import/Export"
+msgstr "Import/ Export"
+
+# @ premise-settings-transporter
+#. translators: plugin header field 'Name'
+#: includes/prst-admin-extras.php:161 includes/prst-admin-extras.php:201
+#: includes/prst-admin-extras.php:208 includes/prst-admin-extras.php:238
+#: includes/prst-admin-extras.php:260 includes/prst-admin-functions.php:41
+#: includes/prst-import-export.php:180 premise-settings-transporter.php:0
+#: premise-settings-transporter.php:105 premise-settings-transporter.php:114
+msgid "Premise Settings Transporter"
+msgstr "Premise Einstellungen Transporter"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:58
+msgid "Premise - Import/ Export Settings"
+msgstr "Premise - Import/ Export von Einstellungen"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:59
+msgid "Import/ Export"
+msgstr "Import/ Export"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:146
+msgid "Import Premise Settings File"
+msgstr "Premise Einstellungen-Datei importieren"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:153
+msgid "Choose the file from your computer and click \"Upload file and Import\""
+msgstr ""
+"Wählen Sie die Datei von Ihrem Computer und klicken Sie \"Hochladen und "
+"importieren\""
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:159
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Datei hochladen: (Maximale Größe: %s)"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:162
+msgid "Upload File and Import"
+msgstr "Datei hochladen und importieren"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:174
+msgid "Export Premise Settings File"
+msgstr "Premise Einstellungen-Datei exportieren"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:185
+msgid ""
+"Once you have saved the download file, you can use the import function on "
+"another - Premise empowered - site to import this data."
+msgstr ""
+"Wenn Sie einmal die Einstellungen-Datei erzeugt und gesichert haben, können "
+"Sie die Importfunktion bei einer anderen - mit Premise betriebenen - "
+"Webseite verwenden, um diese Daten zu importieren."
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:198
+msgid "Download Export File"
+msgstr "Exportdatei herunterladen"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:236
+msgid "Settings successfully imported."
+msgstr "Einstellungen erfolgreich importiert."
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:240
+msgid "There was a problem importing your settings. Please try again."
+msgstr ""
+"Es gab ein Problem beim Importieren Ihrer Einstellungen. Bitte versuchen Sie "
+"es noch einmal."
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:262
+msgid "Premise Main Settings"
+msgstr "Premise Grundeinstellungen"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:288
+msgid "Member Access Module Settings"
+msgstr "Mitgliederzugriff Modul-Einstellungen"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:313
+msgid "No export options available."
+msgstr "Es sind keine Export-Optionen verfügbar."
+
+# @ premise-settings-transporter
+#. translators: plugin header field 'PluginURI'
+#: premise-settings-transporter.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/premise-settings-transporter/"
+msgstr "http://genesisthemes.de/plugins/premise-settings-transporter/"
+
+# @ premise-settings-transporter
+#: premise-settings-transporter.php:104
+#, php-format
+msgid ""
+"Sorry, you cannot activate the %1$s plugin unless you have installed the "
+"latest version of the %2$sPremise Plugin%3$s (at least %4$s)."
+msgstr ""
+"Hinweis: Das %1$s Plugin kann <em>nicht</em> aktiviert werden, solange nicht "
+"die neueste Version des %2$sPremise Landingseiten-Plugins%3$s installiert "
+"ist (mindestens %4$s)."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:309
+msgid "Desgin Settings"
+msgstr "Design-Einstellungen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:312
+msgid "Designs"
+msgstr "Designs"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:326
+msgid "Landing Pages"
+msgstr "Landingseiten"
+
+# @ premise-settings-transporter
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/prst-admin-extras.php:327 includes/prst-admin-extras.php:339
+msgid "Landing Page"
+msgid_plural "Landing Pages"
+msgstr[0] "Landingseite"
+msgstr[1] "Landingseiten"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:339
+#, php-format
+msgid "Why not create your first %1$s?"
+msgstr "Warum erstellen Sie nicht einfach Ihre erste %1$s?"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:345
+#, php-format
+msgid "Why are the %1$s not included?"
+msgstr "Warum sind die %1$s nicht inkludiert?"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:346
+#, php-format
+msgid ""
+"No worries, the Premise %1$s are a custom post type and therefore they could "
+"be exported/ imported via WordPress' own export functionality for custom "
+"post types. Just go to %2$s select %1$s from the list there and make an %3$s "
+"export file for your landing pages only."
+msgstr ""
+"Keine Sorge, die Premise %1$s sind ein Inhaltstyp (Custom Post Type) und "
+"daher können sie über die WordPress-eigene Export-/ Importfunktionalität "
+"exportiert und importiert ewrden. Gehen Sie einfach zu %2$s, wählen SIe %1$s "
+"aus der Liste aus und legen Sie eine %3$s Exportdatei nur für Landingseiten "
+"an."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:346
+msgid "Tools &#x2192; Export Data"
+msgstr "Werkzeuge &#x2192; Daten exportieren"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:347
+#, php-format
+msgid ""
+"To import the %1$s %2$s file, just install and activate the official %3$s "
+"plugin, then go to %4$s and upload your export file."
+msgstr ""
+"Um die %1$s %2$s Datei zu importieren, installieren und aktivieren Sie "
+"zuerst das offizielle %3$s Plugin, gehen Sie dann zu %4$s und laden Sie "
+"Exportdatei hoch."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:347
+msgid "WordPress Importer"
+msgstr "WordPress Importer"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:347
+msgid "Tools &#x2192; Import Data"
+msgstr "Werkzeuge &#x2192; Daten importieren"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:348
+#, php-format
+msgid ""
+"Currently, you have %1$s %2$s (including published, draft, scheduled, "
+"pending and private statuses)."
+msgstr ""
+"Aktuell haben Sie %1$s %2$s (gezählt werden diese Statuus: Veröffentlicht, "
+"Entwurf, Geplant, Ausstehend, Privat)."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-functions.php:41
+#, php-format
+msgid "Notes for the %s plugin"
+msgstr "Hinweise für das Plugin %s"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-functions.php:44
+msgid ""
+"There's NO warranty supplied when you use this plugin, all at your own risk!"
+msgstr ""
+"Es wird KEINE Garantie für die Verwendung dieses Plugins übernommen, alles "
+"geschieht auf eigenes Risiko!"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:280
+msgid "Premise Custom Code"
+msgstr "Premise Eigener Code"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:44
+msgid "Third-party plugin"
+msgstr "Drittanbieter-Plugin"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:46
+msgid "official release"
+msgstr "offizielle Veröffentlichung"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:47
+msgid "community release"
+msgstr "Community-Veröffentlichung"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:75
+msgid "Premise iDevAffiliate Integration"
+msgstr "Premise iDevAffiliate Integration"
+
+# @ premise-settings-transporter
+#. translators: plugin header field 'Description'
+#: premise-settings-transporter.php:0
+msgid ""
+"Adds a Import/Export feature to the \"Premise\" premium landing page & "
+"member access plugin."
+msgstr ""
+"Fügt Import- und Exportfunktionalität für Einstellungen des \"Premise\" "
+"Plugins für Landingseiten und Mitgliederzugriff hinzu."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:312
+#, php-format
+msgid "Why are the <em>individual</em> %1$s not included?"
+msgstr "Warum sind die <em>individuellen</em> %1$s nicht inkludiert?"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:312
+#, php-format
+msgid ""
+"No worries, the <em>individual</em> %1$s have a built-in export/ import "
+"feature in Premise already! If you have already created more than one Design "
+"just can open each one and export/ import it individually. You can export "
+"all single %2$s except the default one. To export the default Design just "
+"duplicate it and then it also becomes exportable ;-)."
+msgstr ""
+"Keine Sorge, die <em>individuellen</em> %1$s haben bereits eine eingebaute "
+"Export-/ Importfunktionalität in Premise! Wenn Sie bereits mehr als ein "
+"Design erstellt haben, können Sie jedes Design entsprechend öffnen und dann "
+"individuell exportieren bzw. importieren. Sie können alle einzelnen %2$s "
+"exportieren, außer dem Standarddesgin. Um auch dieses exportierbar zu "
+"machen, duplizieren Sie es vorher einfach :)."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:370
+msgid "Please Note"
+msgstr "Bitte bachten"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:370
+msgid ""
+"If you are importing a file containing a full set of Design Settings and/ or "
+"Button configurations, be aware that all Designs and Buttons with the same "
+"ID will be overridden! Don't complain about losing your data. You've been "
+"warned."
+msgstr ""
+"Werden Dateien importiert, die komplette Sets von Design-Einstellungen und/ "
+"oder Button-Konfigurationen enthalten, werden alle Designs und Buttons, mit "
+"derselben ID, überschrieben! Also nicht beklagen, falls Einstellungs-Daten "
+"'weg' sind, Sie wurden gewarnt :)."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:392
+msgid "Actions"
+msgstr "Aktionen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:393
+msgid "Support Forum"
+msgstr "Support-Forum"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:268
+msgid "Premise all Configured Designs/ Themes"
+msgstr "Premise, alle definierten Landingseiten-Designs/ -Themes"
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:274
+msgid "Premise all Configured Buttons"
+msgstr "Premise, alle definierten Buttons"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:175 includes/prst-admin-extras.php:260
+msgid "Import & Backup Advise"
+msgstr "Tipps für Import & Datensicherung"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:264
+msgid "Import file formats"
+msgstr "Dateiformate beim Import"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:268
+msgid "Just be careful to not mix them up"
+msgstr "Einfach darauf achten, diese beiden nicht zu vermischen"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:271
+msgid "Backup strategy"
+msgstr "Strategie zur Sicherung von Einstellungen &amp; Daten"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:273
+msgid ""
+"Making backups is always recommended, especially if you are doing imports of "
+"(many) Design Sets and/ or Button sets."
+msgstr ""
+"Backups anzulegen wird unter allen Umständen empfohlen, insbesondere, wenn "
+"Sie (viele) Design- und/ oder Button-Sets importieren wollen."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:275
+msgid ""
+"Using the below exporter tool to make export files of <em>settings</em>."
+msgstr ""
+"Verwenden Sie das Exportwerkzeug unten, um Exportdateien von "
+"<em>Einstellungen</em> zu erzeugen."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:276
+msgid ""
+"Using the WordPress exporter tool to make export files of Premise Landing "
+"Pages and/ or MemberAccess post types."
+msgstr ""
+"Verwenden Sie das WordPress Exportwergzeug, um Exportdateien von Premise "
+"Landingseiten und/ oder den Inhaltstypen des Mitgliederzugriffs "
+"(MemberAccess) zu erzeugen."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:277
+msgid ""
+"Using full-featured backup plugins for WordPress to make database and file "
+"(think media library...) backups, that are also prepared for restoration or "
+"migration."
+msgstr ""
+"Verwenden Sie voll ausgestattete Datensicherungs-Plugins für WordPress, um "
+"Sicherungen der Datenbank bzw. der Dateien (Stichwort: Mediathek...) "
+"anzulegen. Solche Lösungen sind auch vorbereitet für Datenwiederherstellung "
+"sowie Datenmigration."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:278
+msgid "Recommended - full-featured - backup solutions are (both premium)"
+msgstr ""
+"Empfohlene - vollausgestattete - Datensicherungslösungen (beide sind "
+"Premium!)"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:279
+msgid "Snapshot (by WPMU DEV)"
+msgstr "Snapshop (von WPMU DEV)"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:280
+msgid "BackupBuddy (by iThemes)"
+msgstr "BackupBuddy (von iThemes)"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:274
+msgid "Any kind of backups can be helpful"
+msgstr "Jede Art von Datensicherung kann hilfreich sein!"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:207
+#, php-format
+msgid "On BOTH sites/ installations you have installed & activated %s."
+msgstr ""
+"Auf BEIDEN Webseiten/ Installationen haben Sie %s installiert &amp; "
+"aktiviert,"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:207
+msgid "Premise"
+msgstr "Premise"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:209
+msgid ""
+"It's recommended to have THE VERY SAME VERSIONS installed on the original "
+"site and also the receiving site. Reason: sometimes settings differ between "
+"plugin versions. So with making sure you have the same versions installed "
+"you just ensure the correct settings are included within the export file."
+msgstr ""
+"Es wird empfohlen, dass auf der Original-Webseite und der empfangenden "
+"Webseite DIESELBEN VERSIONEN installiert sind. Grund: manchmal unterscheiden "
+"sich Einstellungen zwischen einzelnen Pluginversionen. Wenn Sie "
+"sicherstellen, dass überall dieselbe Version installiert ist, gehen Sie auch "
+"sicher, dass die korrekten Einstellungen in der Exportdatei landen."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:213
+msgid "Premise &#x2192; Import/ Export"
+msgstr "Premise &#x2192; Import/ Export"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:55
+msgid "WP Premise Box"
+msgstr "WP Premise Box"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:65
+msgid "Infusionsoft® Integration"
+msgstr "Infusionsoft® Integration"
+
+# @ premise-settings-transporter
+#: includes/prst-plugins-support.php:85
+msgid "Premise GA Ecommerce Tracking"
+msgstr "Premise Google Analytics Ecommerce Tracking"
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:266
+#, php-format
+msgid "The below importer tool uses the %s file format."
+msgstr "Das Importwerkzeug unten verwendet das %s Dateiformat."
+
+# @ premise-settings-transporter
+#: includes/prst-admin-extras.php:267
+#, php-format
+msgid "The built-in importer tool for single Designs uses the %s file format."
+msgstr ""
+"Das in Premise eingebaute Importwerkzeug für einzelne Designs verwendet das "
+"%s Dateiformat."
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:150
+#, php-format
+msgid ""
+"Upload the data file (%s) from your computer and we'll import your settings."
+msgstr ""
+"Laden Sie die Daten (%s) von Ihrem Computer hoch und wir werden Ihre "
+"Einstellungen importieren."
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:179
+#, php-format
+msgid ""
+"When you click the button below, the %s plugin will generate a data file "
+"(%s) for you to save to your computer."
+msgstr ""
+"Wenn Sie den Button hier darunter klicken, wird das %s Plugin eine Daten-"
+"Datei (%s) für Sie erzeugen, die Sie auf Ihrem Rechner abspeichern können."
+
+# @ premise-settings-transporter
+#: includes/prst-import-export.php:189
+msgid "Select / Unselect ALL Checkboxes:"
+msgstr "ALLE Checkboxen aktivieren / deaktivieren:"
+
+# @ premise-settings-transporter
+#. translators: plugin header field 'Version'
+#: premise-settings-transporter.php:0
+msgid "1.1.0"
+msgstr "1.1.0"
